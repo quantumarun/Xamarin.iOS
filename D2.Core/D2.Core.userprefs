@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{391A0BE9-B1DB-42CB-9543-295017BC5742}|Default">
+  <MonoDevelop.Ide.ItemProperties.D2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E04554D9-1DA5-499E-B7E3-382DDA9EB562" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="D2.Core/App.cs">
+    <Files>
+      <File FileName="D2.Core/ViewModels/FirstViewModel.cs" Line="12" Column="79" />
+      <File FileName="D2.iOS/AppDelegate.cs" Line="34" Column="1" />
+      <File FileName="D2.iOS/AppDelegate.cs.txt" Line="24" Column="13" />
+      <File FileName="D2.iOS/Views/FirstView.cs" Line="23" Column="1" />
+      <File FileName="D2.Core/App.cs" Line="14" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

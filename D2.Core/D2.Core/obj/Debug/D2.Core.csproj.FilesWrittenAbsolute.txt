@@ -1,0 +1,9 @@
+/Users/arun/Music/GITHUBRepos/Xamarin_iOS/D2.Core/D2.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/arun/Music/GITHUBRepos/Xamarin_iOS/D2.Core/D2.Core/bin/Debug/D2.Core.dll.mdb
+/Users/arun/Music/GITHUBRepos/Xamarin_iOS/D2.Core/D2.Core/bin/Debug/D2.Core.dll
+/Users/arun/Music/GITHUBRepos/Xamarin_iOS/D2.Core/D2.Core/obj/Debug/D2.Core.dll
+/Users/arun/Music/GITHUBRepos/Xamarin_iOS/D2.Core/D2.Core/obj/Debug/D2.Core.dll.mdb
+/Users/arun/Music/GITHUBRepos/Xamarin_iOS/D2.Core/D2.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/arun/Music/GITHUBRepos/Xamarin_iOS/D2.Core/D2.Core/bin/Debug/MvvmCross.Core.dll
+/Users/arun/Music/GITHUBRepos/Xamarin_iOS/D2.Core/D2.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/arun/Music/GITHUBRepos/Xamarin_iOS/D2.Core/D2.Core/bin/Debug/MvvmCross.Localization.dll
